@@ -4,4 +4,5 @@ public class MyView {
 	//굿굿굿!!!
 	//노굿!!!!!
 	//헤헤
+	//good
 }
